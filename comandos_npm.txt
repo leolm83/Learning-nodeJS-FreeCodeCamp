@@ -1,0 +1,5 @@
+instalar dependencias para desenvolvimento
+npm install nomepacote --save-dev
+npm i nomepacote -D
+
+coisas como nodemon, testes,linting e formatacao comumente sao dependencias de desenvolvimento
